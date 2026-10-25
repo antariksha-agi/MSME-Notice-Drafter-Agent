@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pydantic
+langchain
+langchain-groq
+langsmith
+python-dotenv
+python-dateutil
